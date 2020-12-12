@@ -21,12 +21,13 @@
 <br><br>
 
 <hr>
-# GitHub Stats..
+
+GitHub Stats..
 <img src="https://github-readme-stats.vercel.app/api?username=amitak786&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
-# Connect with me <img src=https://raw.githubusercontent.com/Harshita248/Harshita248/main/Assets/Handshake.gif">
+# Connect with me <img src="https://raw.githubusercontent.com/Harshita248/Harshita248/main/Assets/Handshake.gif">
 
 [<img align="left" alt="Amit_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/amit-kumar345)
 
