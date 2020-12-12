@@ -14,12 +14,6 @@
 
 
 
-
-
-
-
-
-
 - Currently put my efforts into open source world 
 -  Working on **_Competitive Programming skills..._**
 -  Collaborating in various projects as an Open - Source Contributor
@@ -27,7 +21,7 @@
 <br><br>
 
 <hr>
-
+##GitHub Stats..
 <img src="https://github-readme-stats.vercel.app/api?username=amitak786&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
