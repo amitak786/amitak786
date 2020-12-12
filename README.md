@@ -12,7 +12,7 @@
 </p>
 
 
-
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 - Currently put my efforts into open source world 
 -  Working on **_Competitive Programming skills..._**
 -  Collaborating in various projects as an Open - Source Contributor
