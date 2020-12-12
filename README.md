@@ -38,3 +38,6 @@
 
 [<img align="left" alt="Amit_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/amit-kumar345)
 
+[<img align="left" alt="AmitKumar_website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://amitak786.github.io/PersonalPortfolio/)
+
+
