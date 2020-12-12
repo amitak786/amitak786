@@ -7,7 +7,7 @@
   <em>
     This is Amit Kumar, a final year undergraduate pursuing B.Tech (CSE) from <a href="https://www.dbit.co.in"> <b>Don Bosco Institute of Technology</b>, Bangalore</a>. <br>
     I am <b>Full-Stack Web Developer  </b>   and a <b>Cloud Enthusiast, </b>;
-    <b>implementing</b> my ideas into an<b>open source contributor </b>
+    <b>implementing</b> my ideas into an <b> open source contributor </b>
   </em>
 </p>
 
