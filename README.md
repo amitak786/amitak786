@@ -25,7 +25,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Harshita248/Harshita248/main/Assets/Earth.gif"> GitHub Stats..
+<img src="https://raw.githubusercontent.com/Harshita248/Harshita248/main/Assets/Earth.gif" "width=24px"> GitHub Stats..
 
 
 
