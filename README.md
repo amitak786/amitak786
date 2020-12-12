@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/Harshita248/Harshita248/main/Assets/Hi.gif">
 
 <h1 align="center">I'm Amit <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
 </h1>
