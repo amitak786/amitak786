@@ -33,7 +33,7 @@
 
 
 
-# Connect with me <img src="https://raw.githubusercontent.com/Harshita248/Harshita248/main/Assets/Handshake.gif">
+# Connect with me  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" height="32px">
 
 [<img align="left" alt="Amit_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/amit-kumar345)
 
