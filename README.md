@@ -1,6 +1,5 @@
 ### Hi there 👋
-<h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="30px">   Hello, Folks !  
-<br>
+
 <h1 align="center">I'm Amit <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
 </h1>
 
