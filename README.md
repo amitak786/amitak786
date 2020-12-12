@@ -18,7 +18,7 @@
 -  Working on **_Competitive Programming skills..._**
 -  Collaborating in various projects as an Open - Source Contributor
 - Aspire to develop new possibilities in the field of **_AWS CLOUD_**
-- How to reach me: Twitter @akpitch
+- How to reach me: [Twitter @akpitch](https://twitter.com/akpitch) , [Medium @amitkr45](https://medium.com/@amitkr45)
 <br><br>
 
 <hr>
