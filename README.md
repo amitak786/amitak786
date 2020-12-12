@@ -25,7 +25,7 @@
 
 
 
-GitHub Stats..
+<img src="https://raw.githubusercontent.com/Harshita248/Harshita248/main/Assets/Earth.gif"> GitHub Stats..
 
 
 
