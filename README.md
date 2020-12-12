@@ -1,16 +1,35 @@
 ### Hi there 👋
+<h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="30px">   Hello, Folks !  
+<br>
+<h1 align="center">I'm Amit <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
+</h1>
 
-<!--
-**amitak786/amitak786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>
+    This is Amit Kumar, a final year undergraduate pursuing B.Tech (CSE) from <a href="https://www.dbit.co.in"> <b>Don Bosco Institute of Technology</b>, Bangalore</a>. <br>
+    I am <b>Full-Stack Web Developer  </b>   and a <b>Cloud Enthusiast, </b>;
+    <b>implementing</b> my ideas into an<b>open source contributor </b>
+  </em>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+- Currently put my efforts into open source world 
+-  Working on **_Competitive Programming skills..._**
+-  Collaborating in various projects as an Open - Source Contributor
+- Aspire to develop new possibilities in the field of **_AWS CLOUD_**
+<br><br>
+
+<hr>
+
+
+
+
+# Connect with me 
+
+[<img align="left" alt="Amit_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/amit-kumar345)
+
